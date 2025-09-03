@@ -1,2 +1,2 @@
 # stats507-coursework
-Assignment for stats507——Python
+Stats507 is a Python course, and course assignments will be uploaded here.
